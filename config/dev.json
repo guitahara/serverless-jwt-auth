@@ -1,0 +1,4 @@
+{
+    "db":"mongodb://admin:admin123@ds257564.mlab.com:57564/coop-db",
+    "secret":"ooXsuwfnmpdv8wwVSZvncbluOl5VeZlLH2ofvKpEgvuzWMmyL4UoI7DB3b5YXgj0"
+}
